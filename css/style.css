@@ -42,7 +42,6 @@ body{
 .wrap{
 	min-width: 300px;
 	width: 96%;
-	height: 1500px;
 	margin: auto;
 	margin-top: 10px;
 	padding: 0;
@@ -207,6 +206,7 @@ ul.elmenu {
 	background: #d4c9c2;
 	float: right;
 	width: 86%;
+	max-height: 90px;
 	padding: 1%;
 	margin-top: 65px;
 	z-index: -1;
